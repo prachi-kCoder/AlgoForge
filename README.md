@@ -12,7 +12,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/AlgoForge.git
+git clone https://github.com/prachi-kCoder/AlgoForge.git
 Replace yourusername with your actual GitHub username.
 
 Navigate to the Project Directory:
