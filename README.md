@@ -1,5 +1,10 @@
 # AlgoForge 
 ## Visualize and Experiment with Machine Learning Algorithms
+![Lor py](https://github.com/user-attachments/assets/3681535f-b9fc-4086-8e0d-0ac31f5ab94d)
+![random_forest py](https://github.com/user-attachments/assets/dcd505f5-65ba-4002-ba16-873ea7a24750)
+![dtree py](https://github.com/user-attachments/assets/30d99aec-23fa-4c92-9f21-057ec02a666e)
+![knn py](https://github.com/user-attachments/assets/c141e02a-df86-4d76-a07e-b36f97a84d93)
+
 AlgoForge is your go-to tool for hands-on learning and experimentation with machine learning algorithms. Designed specifically for students and ML enthusiasts, this interactive platform allows you to visualize and tweak various machine learning models in real-time, providing a deeper understanding of how these algorithms work and how different parameters affect their performance.
 
 ##🚀 Key Features:
